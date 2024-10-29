@@ -1,5 +1,6 @@
 #!/bin/bash
-echo "Введите сообщение"read message
+echo "Введите сообщение"
+read message
 echo "Введите идентификатор чата"
 read chat_id
 echo "Введите токен бота"read token
